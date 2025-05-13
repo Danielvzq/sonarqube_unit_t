@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "multiply.h"
+#include "mult.h"
 
 TEST(MultiplyTest, HandlesPositiveInput)
 {
